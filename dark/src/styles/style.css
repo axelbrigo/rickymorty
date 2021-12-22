@@ -1,0 +1,32 @@
+.Characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 55px;
+    text-align: center;
+}
+
+.cards {
+    border: 0.2px solid rgb(69, 255, 13);
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    box-shadow: 5px 5px 15px 5px rgba(36,255,0,0.64);
+
+}
+
+.cards h2 {
+    margin-bottom:  70px;
+    width: 80%;
+    margin: auto;
+    box-shadow: 5px 5px 15px 5px rgba(36,255,0,0.64);
+    height: auto;
+}
+
+.cards img {
+    width: 100%;
+    
+    
+}
